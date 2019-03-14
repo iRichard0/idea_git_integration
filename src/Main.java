@@ -1,3 +1,6 @@
+/**
+ * Git and IDEA are integrating
+ */
 public class Main {
 
     public static void main(String[] args) {
